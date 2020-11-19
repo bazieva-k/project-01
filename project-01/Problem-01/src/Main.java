@@ -23,7 +23,7 @@ public class Main extends PApplet {
         }
         if(x < 0){
             dx = -dx;
-            x = 0;
+            x=0;
         }
     }
 
